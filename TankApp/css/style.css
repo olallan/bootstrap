@@ -1,0 +1,246 @@
+/*Specifity */
+
+
+body {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+ul, li {
+    display: block;
+    padding: 0;
+    margin: 0;
+
+}
+
+h1, h2, h3, h4, h5 {
+    font-weight: 700;
+    color: #525764;
+}
+
+h2 {
+    text-align: center;
+}
+h3 {
+    font-weight: 400;
+}
+
+
+
+
+/*Header*/
+.header {
+    background: #ffffff;
+    color: #888b94;
+    padding-top: 28px;
+    padding-bottom: 30px;
+}
+.menu {
+    margin-top: 8px;
+}
+.menu__item {
+    margin-right: 30px;
+    text-transform: uppercase;
+}
+    .menu__item a {
+        font-size: 16px;
+        font-weight: 300;
+        color: #888b94;
+    }
+
+/*Feautures*/
+.feautures {
+    background: url(img/Clouds.png) no-repeat #7ea8d6 center top;
+    color: #888b94;
+    height: auto;
+}
+
+.offer {
+    color: #f7f6f2;
+    width: auto;
+    margin-top: 230px;
+}
+
+.offer__title {
+    font-size: 52px;
+    color: #f7f6f2;
+    margin-bottom: 40px;
+    text-transform: uppercase;
+}
+.offer__intra {
+    font-size: 22px;
+    font-weight: 300i;
+    font-style:italic;
+    margin-bottom: 66px;
+}
+.offer__text{
+    font-size: 16px;
+    margin-bottom: 36px;
+}
+.Iphone {
+    display: block;
+    margin-top: 100px;
+}
+.form{
+
+}
+.form__input {
+    background: #ffffff;
+    font-size: 16px;
+    color: #dedfe1;
+    font-family: 'Ubuntu', sans-serif;
+    border-radius: 10px;
+    width: 400px;
+    padding: 15px 25px;
+}
+.form__btn {
+    font-family: 'Ubuntu', sans-serif;
+    background: #91c250;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 700;
+    border-radius: 10px;
+    width: 120px;
+    border: 0;
+    padding: 15px 0;
+    margin-left: 15px;
+}
+
+/*Partners*/
+.partners {
+    background: #f8f8f8;
+    padding-top: 67px;
+    padding-bottom: 60px;
+}
+.logo {
+    margin-left: auto;
+}
+.logo__item {
+    margin:  0 auto 0;
+}
+
+/*tools*/
+.tools__title {
+    font-size: 40px;
+    color: #5f6570;
+    text-transform: uppercase;
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+.feature {
+    width: 505px;
+}
+.feature__block {
+
+}
+.feature__icon1 {
+    height: 27px;
+    width: 37px;
+    margin-right: 15px;
+}
+.feature__icon2 {
+    height: 46px;
+    width: 52px;
+    margin-right: 15px;
+}
+.feature__icon3 {
+    height: 52px;
+    width: 53px;
+    margin-right: 15px;
+}
+.feature__icon4 {
+    height: 52px;
+    width: 38px;
+    margin-right: 15px;
+}
+.feature__title {
+    font-size: 20px;
+}
+.feature__text {
+    font-size: 14px;
+    color: #9498a1;
+    margin-top: 30px;
+}
+.macbook {
+    margin-bottom: 125px;
+}
+/*different*/
+.different {
+    background: url('img/Layer 23.png') no-repeat #f6f6f7 center top;
+    padding-top: 160px;
+    padding-bottom: 195px;
+}
+.different__title {
+    margin-bottom: 170px;
+}
+/*contacts*/
+.contacts {
+    padding-top: 150px;
+    padding-bottom: 105px;
+    background: #ffffff;
+}
+.contacts__title {
+    margin-bottom: 50px;
+}
+.contacts__text {
+    margin-bottom: 70px;
+    text-align: center;
+}
+.contacts__form {
+    text-align: center;
+}
+.contacts__input {
+    background: #ffffff;
+    font-size: 21px;
+    color: #dedfe1;
+    font-family: 'Ubuntu', sans-serif;
+    width: 632px;
+    padding: 23px 80px;
+    border-radius: 5px;
+}
+.contacts__btn {
+    font-family: 'Ubuntu', sans-serif;
+    background: #91c250;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 700;
+    width: 190px;
+    border: 0;
+    border-radius: 5px;
+    padding: 23px 0;
+    margin-left: 40px;
+}
+/*footer*/
+.footer {
+    padding-top: 55px;
+    padding-bottom: 55px;
+    background: #f9f9f9;
+}
+.fmenu {
+    
+}
+.fmenu__item {
+    margin-right: 30px;
+    text-transform: uppercase;
+}
+.fmenu__item a {
+    font-size: 16px;
+    font-weight: 300;
+    color: #888b94;
+}
+.icons {
+    margin-right: 20px;
+}
+.icons__item1 a {
+    color: #7abbf4;
+    margin-right: 20px;
+}
+.icons__item2 a {
+    color: #566ca6;
+    margin-right: 20px;
+}
+.icons__item3 a {
+    color: #c94d43;
+    margin-right: 20px;
+}
